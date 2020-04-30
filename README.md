@@ -6,7 +6,7 @@ Calculator app that compute arthimetic functions.
 
 ## Live link
 
-Live link to my portfolio: 
+Live link to calculator:https://muthakabrian.github.io/calculator/ 
 
 ## Tool used
 
